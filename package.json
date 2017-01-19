@@ -1,5 +1,6 @@
 {
   "name": "empty-ndarray",
+  "main": "empty-ndarray.js",
   "version": "1.0.0",
   "dependencies": {
     "ndarray": "^1.0.18"
